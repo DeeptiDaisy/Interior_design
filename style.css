@@ -8,9 +8,7 @@ body{
   left: 0;
   width: 100%;
   height: 100%;
-  background: ;
   mix-blend-mode: overlay;
-  background-color:;
 }
 .showcase .bg{
     position: absolute;
@@ -18,10 +16,6 @@ body{
     left: 0;
     width: 100%;
     height: -webkit-fill-available;
-    
-    
-  
-
 }
 li.list-item {
     float: left;
@@ -188,6 +182,10 @@ button.learn-more {
         font-size: 30px;
         width: 300px;
     }
+    h1.logo{
+        font-size: 15px;
+        top: 30px;
+    }
     .details {
         position: absolute;
         right: 105px;
@@ -220,7 +218,7 @@ button.learn-more {
     i.fas.fa-bars {
         display: block;
         position: relative;
-        left: 150px;
+        left: 290px;
         color: white;
         top: 50px;
         font-size: 25px;
